@@ -1,4 +1,4 @@
-# Hi, I'm Hakim 👋
+# Hi, I'm Hakim
 
 Computer Science student at **IIUM** (International Islamic University Malaysia). I build and ship full-stack web apps for real users, and I work on data science and machine learning projects.
 
